@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #ffd569;
+  padding: 20px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.card1 {
+  background-color: #ffffff;
+  padding: 30px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.image {
+  height: 250px;
+}
+.card3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+span {
+  color: #ffd569;
+}
